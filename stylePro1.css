@@ -102,7 +102,7 @@ aside {
     display: grid;
     height: 100vh;
     position: relative;
-    background-image: url(/images/_copy1.png);
+    background-image: url(images/_copy1.png);
     background-size: cover;
     background-position: center;
 }
@@ -166,15 +166,15 @@ section>.content>button{
 }
 
 #slide1{
-    background-image: url(/images/_copy1.png);
+    background-image: url(images/_copy1.png);
     background-size: cover;
 }
 #slide2{
-    background-image: url(/images/image_copy.png);
+    background-image: url(images/image_copy.png);
     background-size: cover;
 }
 #slide3{
-    background-image: url(/images/image_copy_2.png);
+    background-image: url(images/image_copy_2.png);
     background-size: cover;
 }
 
@@ -330,7 +330,7 @@ pre>strong{
    width: 80%;
    height: 70vh;
    /* background-color: pink;  */
-   background-image: url(/images/video-bg.jpg);
+   background-image: url(images/video-bg.jpg);
    margin-top: 10%;
    margin-left: 10%;
 }
@@ -345,7 +345,7 @@ pre>strong{
 .Backgorund_blur .text_on_blur .Vdo_On_image{
     width: 78%;
     height: 50vh;
-    background-image: url(/images/img_vdo.png);
+    background-image: url(images/img_vdo.png);
     margin-top: 5%;
     align-content: center; 
     z-index: 999;
